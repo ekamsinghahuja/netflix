@@ -18,10 +18,7 @@
     transition: width 0.3s;
     
 }
-.card-list img:hover{
-    width: 265px;   
-    height: auto; /* Allow height to adjust automatically */
-}
+
 .card-list .card{
     position:relative;
 }
